@@ -16,7 +16,9 @@ This project is my first attempt at creating a website using React. I followed a
 
 Key Takeaways
 Understanding React: This project helped me grasp the core concepts of React and its component-based architecture.
+
 Building Confidence: Completing this project boosted my confidence in using React for web development.
+
 GitHub Upload: This is also my first time uploading a large project to GitHub. I may have included some unnecessary files, but it was a valuable learning experience.
 
 Feel free to explore the project and provide any feedback. Thank you!
